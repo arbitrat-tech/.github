@@ -34,7 +34,7 @@ If you’re curious about our work or want to collaborate, feel free to open an 
 
 ### 📫 Contact Us
 
-- 🔗 [arbitrat.tech](https://arbitrat.tech) *(Coming soon)*
+- 🔗 [arbitrat.tech](https://arbitrat.org) *(Coming soon)*
 - ✉️ hello@arbitrat.tech
 - 🐦 [Twitter](https://twitter.com/arbitrat) *(if applicable)*
 
